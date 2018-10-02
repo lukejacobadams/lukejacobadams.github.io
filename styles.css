@@ -1,0 +1,56 @@
+body {
+    background-color: paleturquoise;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2{
+    color: gold;
+}
+
+#p1{
+    color: red;
+}
+
+#p2{
+    color: greenyellow
+}
+
+p a {
+    color: orange;
+}
+
+.tacos {
+    font-size: 72px;
+}
+
+#eljay {
+    height: 200px;
+    text-align: center;
+}
+
+#email {
+    height: 50px;
+}
+
+#roster {
+    margin-left: auto;
+    margin-right: auto;
+    border-color: aqua;
+    border-width: 10px;
+    border-style: double;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#text1 {
+    text-align: left;
+}
+
+#text2 {
+    text-align: right;
+}
