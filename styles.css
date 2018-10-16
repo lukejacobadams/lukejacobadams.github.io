@@ -1,56 +1,44 @@
 body {
-    background-color: paleturquoise;
-    text-align: center;
-    font-family: fantasy;
+    background-color: gold;
 }
 
-h1 {
-    color: purple;
-    text-align: center;
-}
-
-h2{
+.navbar .navbar-brand {
     color: gold;
 }
 
-#p1{
-    color: red;
+.jumbo1 {
+    background-image: url(EljayCover.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-#p2{
-    color: greenyellow
+.jumbo2 {
+    background-image: url(oldenuffpic.jpg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-p a {
-    color: orange;
+.jumbo3 {
+    background-image: url(rebirf\ cover\ copy.jpg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
-.tacos {
-    font-size: 72px;
-}
-
-#eljay {
-    height: 200px;
+h1 {
+    color: plum;
     text-align: center;
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
 }
 
-#email {
-    height: 50px;
+.perf {
+    font-family: 'Kalam'
 }
 
-#roster {
-    margin-left: auto;
-    margin-right: auto;
-    border-color: aqua;
-    border-width: 10px;
-    border-style: double;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+.tracks {
+    font-family: 'Kalam';
 }
 
-#text1 {
-    text-align: left;
-}
-
-#text2 {
-    text-align: right;
+.row {
+    text-align: center;
 }
